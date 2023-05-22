@@ -1,16 +1,14 @@
-### Hi there 👋
+# *Hi there!*
+## "Welcome to Devnabi's profile🍄!"
 
-<!--
-**devnabi/devnabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("baby developer");
+	}
+```
+<!-- Image -->
+![Star](https://68.media.tumblr.com/22f29abd730ffa4a0451fb8ce5869da5/tumblr_nxvqg2vDeF1ui0huvo1_500.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnabi&show_icons=true&theme=radical)
