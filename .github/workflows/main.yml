@@ -20,5 +20,5 @@ jobs:
           git config user.name devnabi
           git config user.email klkl0812@naver.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "change token"
           git push
